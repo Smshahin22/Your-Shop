@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "400305041092",
+    "project_id": "your-shop-ab623",
+    "storage_bucket": "your-shop-ab623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400305041092:android:e9a1e37176b1522aa82391",
+        "android_client_info": {
+          "package_name": "com.happinessit.your_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400305041092-is61v7v9h2f38ilo8fl6l3us0b33v3ii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.happinessit.your_shop",
+            "certificate_hash": "feb50cbc81e3f9aa69f885f39ebb04e8ce0deccc"
+          }
+        },
+        {
+          "client_id": "400305041092-j7knd8akap6nobg4m8trd5jcpf1afidd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwDg7lwhB3-4iERI92q18F7rZ2bLOjx2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400305041092-j7knd8akap6nobg4m8trd5jcpf1afidd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
